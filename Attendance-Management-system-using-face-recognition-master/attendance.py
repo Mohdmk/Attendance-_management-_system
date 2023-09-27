@@ -98,7 +98,7 @@ l1 = tk.Label(window, image=logo1, bg="lightgray",)
 l1.place(x=470, y=10)
 
 titl = tk.Label(
-    window, text="Matrix Comsec", bg="lightgray", fg="black", font=("arial", 27),
+    window, text="BVM COLLEGE", bg="lightgray", fg="black", font=("arial", 27),
 )
 titl.place(x=525, y=12)
 
